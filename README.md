@@ -193,3 +193,7 @@ Inspired by:
     utility billing reviews
     audit methodologies
     the need for data-driven analysis tools for GARAIO REM environments.
+
+
+<!-- Dies ist mithilfe einer Markdown-Vorlage für das endgültige Projekt des Building AI-Kurses erstellt worden,
+erstellt von Reaktor Innovations und der Universität Helsinki.
