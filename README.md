@@ -1,10 +1,82 @@
 # Real-Estate-Accounting-Special-Analyzer-for-GREM-RE-Acc-SA-GREM-
 
-## Short Description
+## Overview
 RE Acc SA GREM is an open-source solution designed to automate accounting and ERP data analysis within Swiss REM environments.  Its objective is to identify anomalies, missing transactions, recurring invoice issues, and potential duplicate postings through automated data analysis. *Building AI course project*
 
-## Background
+## Short description
+The project helps property managers, real estate owners, asset managers, family offices and audit teams identify potential irregularities and anomalies in accounting data, especially for the ERP-system GARAIO REM.
 
+Key focus areas include:
+- year-over-year analysis
+- completeness checks
+- recurring invoice monitoring
+- anomaly detection
+- plausibility analysis
+- portfolio-wide comparisons
+- 
+The solution is designed for structured accounting and ERP datasets.
+---
+
+## Core Features
+
+ 
+
+### Year-over-Year Analysis
+
+ 
+
+Automatic comparison of:
+
+ 
+
+- ledger accounts
+
+- expense categories
+
+- Accounts payable (AP)/ Accounts Receivable (AR)
+
+- cost centers
+
+- properties
+
+ 
+
+Detection of:
+
+ 
+
+- unusual cost increases
+
+- major cost reductions
+
+- missing transactions
+
+- new booking patterns
+
+ 
+
+---
+
+ 
+
+### Recurring Invoice Monitoring
+
+ 
+
+Identification of recurring invoices:
+
+ 
+
+- monthly
+
+- quarterly
+
+- semi-annual
+
+- annual
+
+ 
+## Background
 What Problem Does It Solve?
 
 Real estate organizations process large volumes of accounting data:
