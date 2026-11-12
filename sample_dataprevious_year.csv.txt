@@ -1,9 +1,0 @@
-sample_data/previous_year.csv
-
-property,account,vendor,amount
-
-Building A,Heating,Energy AG,20000
-
-Building A,Insurance,Insurance AG,6100
-
-Building A,Cleaning,Cleaning GmbH,10000
