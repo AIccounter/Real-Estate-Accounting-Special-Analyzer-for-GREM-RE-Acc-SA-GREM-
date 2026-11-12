@@ -1,0 +1,19 @@
+config/rules.yaml
+
+variance_threshold_percent: 20
+
+ 
+
+recurring_vendors:
+
+  - Versicherung
+
+  - Liftservice
+
+  - Hauswartung
+
+  - Reinigung
+
+  - Strom
+
+  - Wasser
