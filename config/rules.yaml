@@ -1,0 +1,11 @@
+variance_threshold_percent: 20
+
+# Vendors are compared between the two input periods. This list is reserved
+# for future rules that classify which suppliers should be treated as recurring.
+recurring_vendors:
+  - Versicherung
+  - Liftservice
+  - Hauswartung
+  - Reinigung
+  - Strom
+  - Wasser
